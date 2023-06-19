@@ -1,0 +1,38 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    background-color: grey;
+    gap: 50ch;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    margin: 0 0 0 0;
+    height: 4ch;
+}
+
+.navbar {
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    /* gap: 30ch; */
+    max-height: 6ch;
+    min-height: 4ch;
+    text-align: center;
+    width: 100%;
+}
+
+.nav-main {
+    display: flex;
+    flex-direction: row;
+    gap: 3ch;
+}
+
+.nav-user {
+    display: flex;
+    flex-direction: row;
+    gap: 3ch;
+}

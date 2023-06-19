@@ -1,0 +1,17 @@
+body {
+    background-color: tan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    background-color: antiquewhite;
+    border: none;
+    cursor: pointer;
+    height: 3.5ch;
+    margin-bottom: 2ch;
+}
+
+.root .footer {
+    justify-content: flex-end;
+    align-content: flex-end;
+}
